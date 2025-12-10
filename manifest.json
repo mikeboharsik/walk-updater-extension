@@ -3,6 +3,11 @@
   "name": "walk-updater",
   "version": "1.0",
   "description": "",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "@mikeboharsik-walk-updater"
+    }
+  },
   "icons": {
     "48": "icons/icon.png"
   },
